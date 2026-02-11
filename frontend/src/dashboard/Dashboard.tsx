@@ -203,6 +203,7 @@ const Dashboard: React.FC = () => {
       
       <div className="flex-1 min-w-0 overflow-hidden w-full">
         {/* Header */}
+        <div className="bg-white border-b border-gray-200 p-6">
           <div className="flex items-center justify-between">
             <div>
               <nav className="text-sm text-gray-500 mb-2">

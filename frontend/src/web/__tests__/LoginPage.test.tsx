@@ -181,7 +181,7 @@ describe('LoginPage', () => {
         const submitBtn = buttons.find(btn => btn.getAttribute('type') === 'submit');
         expect(submitBtn).toBeDisabled();
       });
-    });
+    }, 10000); // Increased timeout for slow userEvent.type()
   });
 
   describe('form submission - validation errors', () => {

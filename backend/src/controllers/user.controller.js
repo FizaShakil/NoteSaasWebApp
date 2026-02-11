@@ -56,6 +56,11 @@ const generateAccessAndRefreshToken = async (userId) => {
 const signupUser = asyncHandler(async (req, res) => {
   const { name, email, password } = req.body;
 
+  // Validate required fields
+  if (!name || !email || !password) {
+    throw new ApiError(400, 'All fields are required');
+  }
+
   //  Check if user already exists
   const existingUser = await prisma.user.findUnique({
     where: { email },
@@ -93,6 +98,11 @@ const signupUser = asyncHandler(async (req, res) => {
 
 const loginUser = asyncHandler(async (req, res) => {
   const { email, password } = req.body;
+
+  // Validate required fields
+  if (!email || !password) {
+    throw new ApiError(400, 'Email and password are required');
+  }
 
   //  Find user by email
   const dbUser = await prisma.user.findUnique({

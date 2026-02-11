@@ -211,7 +211,7 @@ describe('SignupPage', () => {
       await waitFor(() => {
         expect(screen.getByText(/email already exists/i)).toBeInTheDocument();
       });
-    });
+    }, 10000); // Increased timeout for slow userEvent.type()
 
     it('should display generic error message for unknown errors', async () => {
       const user = userEvent.setup();
@@ -229,7 +229,7 @@ describe('SignupPage', () => {
       await waitFor(() => {
         expect(screen.getByText(/something went wrong/i)).toBeInTheDocument();
       });
-    });
+    }, 10000); // Increased timeout for slow userEvent.type()
 
     it('should clear error message when user starts typing', async () => {
       const user = userEvent.setup();
@@ -255,7 +255,7 @@ describe('SignupPage', () => {
       await user.type(screen.getByLabelText(/email address/i), 'a');
 
       expect(screen.queryByText(/email already exists/i)).not.toBeInTheDocument();
-    });
+    }, 10000); // Increased timeout for slow userEvent.type()
 
     it('should require all fields', () => {
       renderSignupPage();
@@ -346,7 +346,7 @@ describe('SignupPage', () => {
       expect(emailInput.value).toBe('john@example.com');
       expect(passwordInput.value).toBe('Password123!');
       expect(confirmPasswordInput.value).toBe('Password123!');
-    });
+    }, 10000); // Increased timeout for slow userEvent.type()
 
     it('should toggle terms checkbox', async () => {
       const user = userEvent.setup();
