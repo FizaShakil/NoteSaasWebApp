@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Test</title>
+</head>
+<body>
+    <h1>API Test</h1>
+    <button onclick="testAPI()">Test Notes API</button>
+    <div id="result"></div>
+
+    <script>
+        async function testAPI() {
+            const resultDiv = document.getElementById('result');
+            
+            try {
+                // Test basic connectivity
+                const response = await fetch('http://localhost:8000/test');
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <h3>Server Test: ${response.ok ? 'SUCCESS' : 'FAILED'}</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+                
+                // Test notes endpoint (should fail without auth)
+                const notesResponse = await fetch('http://localhost:8000/api/v1/notes/get-notes');
+                const notesData = await notesResponse.json();
+                
+                resultDiv.innerHTML += `
+                    <h3>Notes API Test (without auth): ${notesResponse.status}</h3>
+                    <pre>${JSON.stringify(notesData, null, 2)}</pre>
+                `;
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<h3>ERROR: ${error.message}</h3>`;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Total Notes API</title>
+</head>
+<body>
+    <h1>Test Total Notes API</h1>
+    <button onclick="testTotalNotesAPI()">Test Get Total Notes</button>
+    <div id="result"></div>
+
+    <script>
+        async function testTotalNotesAPI() {
+            const resultDiv = document.getElementById('result');
+            
+            try {
+                // Test the total notes endpoint (should fail without auth)
+                const response = await fetch('http://localhost:8000/api/v1/notes/get-total-notes');
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <h3>Total Notes API Test: ${response.status}</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<h3>ERROR: ${error.message}</h3>`;
+            }
+        }
+    </script>
+</body>
+</html>

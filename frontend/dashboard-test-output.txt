@@ -1,0 +1,549 @@
+﻿
+> frontend@0.0.0 test
+> jest Dashboard.test.tsx
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+        at runNextTicks (node:internal/process/task_queues:64:5)
+        at processTimers (node:internal/timers:538:9)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+        at runNextTicks (node:internal/process/task_queues:64:5)
+        at listOnTimeout (node:internal/timers:567:9)
+        at processTimers (node:internal/timers:541:7)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching notes: Error: Failed to fetch notes
+        at Object.<anonymous> (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\dashboard\__tests__\Dashboard.test.tsx:362:9)
+        at Promise.then.completed (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:298:28)
+        at new Promise (<anonymous>)
+        at callAsyncCircusFn (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:231:10)
+        at _callCircusTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:316:40)
+        at async _runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:252:3)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:126:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async run (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:71:3)
+        at async runAndTransformResultsToJestFormat (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:122:21)
+        at async jestAdapter (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:79:19)
+        at async runTestInternal (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:367:16)
+        at async runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:444:34)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchNotes (src/dashboard/Dashboard.tsx:31:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching notes: Error: Network error
+        at Object.<anonymous> (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\dashboard\__tests__\Dashboard.test.tsx:374:9)
+        at Promise.then.completed (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:298:28)
+        at new Promise (<anonymous>)
+        at callAsyncCircusFn (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:231:10)
+        at _callCircusTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:316:40)
+        at async _runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:252:3)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:126:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async run (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:71:3)
+        at async runAndTransformResultsToJestFormat (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:122:21)
+        at async jestAdapter (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:79:19)
+        at async runTestInternal (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:367:16)
+        at async runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:444:34)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchNotes (src/dashboard/Dashboard.tsx:31:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching notes: Error: Network error
+        at Object.<anonymous> (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\dashboard\__tests__\Dashboard.test.tsx:387:32)
+        at Promise.then.completed (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:298:28)
+        at new Promise (<anonymous>)
+        at callAsyncCircusFn (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:231:10)
+        at _callCircusTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:316:40)
+        at async _runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:252:3)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:126:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async run (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:71:3)
+        at async runAndTransformResultsToJestFormat (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:122:21)
+        at async jestAdapter (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:79:19)
+        at async runTestInternal (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:367:16)
+        at async runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:444:34)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchNotes (src/dashboard/Dashboard.tsx:31:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error fetching user details: TypeError: Cannot read properties of undefined (reading 'data')
+        at fetchUserDetails (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\components\Sidebar.tsx:17:20)
+        at runNextTicks (node:internal/process/task_queues:64:5)
+        at listOnTimeout (node:internal/timers:567:9)
+        at processTimers (node:internal/timers:541:7)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at fetchUserDetails (src/components/Sidebar.tsx:21:15)
+
+  console.error
+    Error deleting note: Error: Failed to delete note
+        at Object.<anonymous> (D:\10Pearls\fizashakil-mern-10pshine\frontend\src\dashboard\__tests__\Dashboard.test.tsx:668:9)
+        at Promise.then.completed (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:298:28)
+        at new Promise (<anonymous>)
+        at callAsyncCircusFn (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\utils.js:231:10)
+        at _callCircusTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:316:40)
+        at runNextTicks (node:internal/process/task_queues:64:5)
+        at listOnTimeout (node:internal/timers:567:9)
+        at processTimers (node:internal/timers:541:7)
+        at async _runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:252:3)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:126:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async _runTestsForDescribeBlock (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:121:9)
+        at async run (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\run.js:71:3)
+        at async runAndTransformResultsToJestFormat (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:122:21)
+        at async jestAdapter (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:79:19)
+        at async runTestInternal (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:367:16)
+        at async runTest (D:\10Pearls\fizashakil-mern-10pshine\frontend\node_modules\jest-runner\build\runTest.js:444:34)
+
+    [0m [90m 62 |[39m       [36mreturn[39m[33m;[39m
+     [90m 63 |[39m     }
+    [31m[1m>[22m[39m[90m 64 |[39m     originalError[33m.[39mcall(console[33m,[39m [33m...[39margs)[33m;[39m
+     [90m    |[39m                   [31m[1m^[22m[39m
+     [90m 65 |[39m   }[33m;[39m
+     [90m 66 |[39m })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at console.error (src/setupTests.ts:64:19)
+      at handleDeleteConfirm (src/dashboard/Dashboard.tsx:107:15)
+
+node.exe : PASS src/dashboard/__tests__/Dashboard.test.tsx (11.418 s)
+At line:1 char:1
++ & "C:\nvm4w\nodejs/node.exe" "C:\Users\fiza\AppData\Roaming\npm/node_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (PASS src/dashbo....tsx (11.418 s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  Dashboard
+    loading state
+      ΓêÜ should show loading spinner while fetching notes (136 ms)
+      ΓêÜ should hide loading spinner after notes are loaded (75 ms)
+    empty state
+      ΓêÜ should show empty state when no notes exist (106 ms)
+      ΓêÜ should show create note button in empty state (346 ms)
+      ΓêÜ should navigate to create note page when clicking empty state button (518 ms)
+    rendered data
+      ΓêÜ should display notes when data is loaded (117 ms)
+      ΓêÜ should display note content preview (96 ms)
+      ΓêÜ should display "Untitled Note" for notes without title (62 ms)
+    user interactions
+      ΓêÜ should navigate to note editor when clicking a note (222 ms)
+      ΓêÜ should navigate to create note page when clicking create button (247 ms)
+    search functionality
+      ΓêÜ should display search input (77 ms)
+      ΓêÜ should call search API when user types in search box (849 ms)
+      ΓêÜ should show empty search results message (569 ms)
+      ΓêÜ should clear search and reload notes when clicking clear button (369 ms)
+      Γùï skipped should display search results
+    error handling
+      ΓêÜ should display error message when fetch fails (117 ms)
+      ΓêÜ should show retry button on error (294 ms)
+      ΓêÜ should retry fetching notes when clicking retry button (441 ms)
+    delete functionality
+      ΓêÜ should show delete button on note hover (130 ms)
+      ΓêÜ should show confirmation modal when clicking delete button (347 ms)
+      ΓêÜ should not navigate to note when clicking delete button (230 ms)
+      ΓêÜ should close modal when clicking cancel (600 ms)
+      ΓêÜ should delete note when clicking confirm (469 ms)
+      ΓêÜ should remove note from list after successful deletion (463 ms)
+      ΓêÜ should show loading state while deleting (528 ms)
+      ΓêÜ should handle delete error gracefully (503 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 25 passed, 26 total
+Snapshots:   0 total
+Time:        13.161 s, estimated 59 s
+Ran all test suites matching /Dashboard.test.tsx/i.

@@ -1,0 +1,26 @@
+Sample Notes for Testing Search Functionality:
+
+Note 1: "JavaScript Basics"
+Content: "JavaScript is a programming language that enables interactive web pages. It includes variables, functions, and objects."
+
+Note 2: "React Components"
+Content: "React components are reusable pieces of code that return JSX elements. They can be functional or class-based."
+
+Note 3: "Database Design"
+Content: "Database design involves creating tables, relationships, and indexes. PostgreSQL is a powerful relational database."
+
+Note 4: "API Development"
+Content: "REST APIs use HTTP methods like GET, POST, PUT, DELETE. Express.js is a popular Node.js framework."
+
+Note 5: "CSS Styling"
+Content: "CSS controls the visual presentation of web pages. It includes selectors, properties, and responsive design."
+
+Search Test Cases:
+1. Search "JavaScript" - should find Note 1
+2. Search "React" - should find Note 2
+3. Search "database" - should find Note 3
+4. Search "API" - should find Note 4
+5. Search "CSS" - should find Note 5
+6. Search "programming" - should find Note 1
+7. Search "components" - should find Note 2
+8. Search "nonexistent" - should return no results

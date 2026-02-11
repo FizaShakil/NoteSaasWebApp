@@ -1,0 +1,38 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+//User table
+model User {
+  id            String   @id @default(uuid())
+  name          String
+  email         String   @unique
+  password      String
+  refreshToken  String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  resetPasswordToken String?
+  resetPasswordExpiry DateTime?
+  notes         Note[]
+}
+
+// Note Table
+model Note {
+  id        String   @id @default(uuid())
+  title     String?
+  content   String   @db.Text
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  // Foreign key to User
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  // Indexes for faster queries
+  @@index([userId])
+  @@index([updatedAt])
+}

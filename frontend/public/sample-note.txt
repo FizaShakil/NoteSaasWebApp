@@ -1,0 +1,21 @@
+Welcome to the Enhanced Note Editor!
+
+This is a sample text file that you can use to test the import functionality.
+
+Key Features:
+- Text alignment options (left, center, right)
+- Import from .txt files
+- Export to .txt and PDF formats
+- Rich text formatting (bold, italic, underline)
+- Headings and lists
+- Code blocks and links
+
+Instructions:
+1. Click "Import .txt" button in the editor
+2. Select this file to import its content
+3. Use the alignment buttons to change text alignment
+4. Try the export features to save your work
+
+The editor now starts with left alignment by default, making it more natural for writing.
+
+Enjoy writing your notes with the enhanced editor!

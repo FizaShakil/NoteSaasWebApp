@@ -1,0 +1,20 @@
+Testing List Functionality
+
+This file can be imported to test the list features:
+
+First item for bullet list
+Second item for bullet list
+Third item for bullet list
+
+First numbered item
+Second numbered item
+Third numbered item
+
+After importing this file, you can:
+1. Select text and click the bullet list button
+2. Select text and click the numbered list button
+3. Use Enter to create new list items
+4. Use Tab to indent list items
+5. Use Shift+Tab to outdent list items
+
+The lists should now work properly with both manual creation and keyboard shortcuts!
